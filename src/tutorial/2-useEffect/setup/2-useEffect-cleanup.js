@@ -4,6 +4,9 @@ import React, { useState, useEffect } from 'react';
 // second argument
 
 const UseEffectCleanup = () => {
+  const [89
+  
+  ]
   return <h2>useEffect cleanup</h2>;
 };
 
